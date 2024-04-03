@@ -1,4 +1,5 @@
 # Music-Player
+# res/Layout
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
@@ -164,3 +165,4 @@
             android:layout_weight="1" />
     </LinearLayout>
 </RelativeLayout>
+
