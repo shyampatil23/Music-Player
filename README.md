@@ -1,2 +1,2 @@
 # Music-Player
-Developed a fully functional music player application for Android as part of an industrial training program. Utilized Java and Android Studio to design and implement user-friendly features such as play, pause, skip, shuffle, and repeat. Integrated audio playback controls, playlist management, and user interface enhancements to provide an immersive music listening experience. Demonstrated proficiency in Android app development, including handling media files, implementing responsive UI/UX design, and ensuring optimal performance across various Android devices.
+
